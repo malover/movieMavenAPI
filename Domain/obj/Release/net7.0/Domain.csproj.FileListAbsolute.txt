@@ -1,0 +1,12 @@
+D:\VisualStudioRepository\MovieMaven\Domain\bin\Release\net7.0\Domain.deps.json
+D:\VisualStudioRepository\MovieMaven\Domain\bin\Release\net7.0\Domain.dll
+D:\VisualStudioRepository\MovieMaven\Domain\bin\Release\net7.0\Domain.pdb
+D:\VisualStudioRepository\MovieMaven\Domain\obj\Release\net7.0\Domain.csproj.AssemblyReference.cache
+D:\VisualStudioRepository\MovieMaven\Domain\obj\Release\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepository\MovieMaven\Domain\obj\Release\net7.0\Domain.AssemblyInfoInputs.cache
+D:\VisualStudioRepository\MovieMaven\Domain\obj\Release\net7.0\Domain.AssemblyInfo.cs
+D:\VisualStudioRepository\MovieMaven\Domain\obj\Release\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepository\MovieMaven\Domain\obj\Release\net7.0\Domain.dll
+D:\VisualStudioRepository\MovieMaven\Domain\obj\Release\net7.0\refint\Domain.dll
+D:\VisualStudioRepository\MovieMaven\Domain\obj\Release\net7.0\Domain.pdb
+D:\VisualStudioRepository\MovieMaven\Domain\obj\Release\net7.0\ref\Domain.dll

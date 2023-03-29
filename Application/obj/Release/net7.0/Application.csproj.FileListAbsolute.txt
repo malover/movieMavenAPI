@@ -1,0 +1,17 @@
+D:\VisualStudioRepository\MovieMaven\Application\bin\Release\net7.0\Application.deps.json
+D:\VisualStudioRepository\MovieMaven\Application\bin\Release\net7.0\Application.dll
+D:\VisualStudioRepository\MovieMaven\Application\bin\Release\net7.0\Application.pdb
+D:\VisualStudioRepository\MovieMaven\Application\bin\Release\net7.0\Domain.dll
+D:\VisualStudioRepository\MovieMaven\Application\bin\Release\net7.0\Persistence.dll
+D:\VisualStudioRepository\MovieMaven\Application\bin\Release\net7.0\Domain.pdb
+D:\VisualStudioRepository\MovieMaven\Application\bin\Release\net7.0\Persistence.pdb
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\Application.csproj.AssemblyReference.cache
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\Application.AssemblyInfoInputs.cache
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\Application.AssemblyInfo.cs
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\Application.csproj.CopyComplete
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\Application.dll
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\refint\Application.dll
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\Application.pdb
+D:\VisualStudioRepository\MovieMaven\Application\obj\Release\net7.0\ref\Application.dll

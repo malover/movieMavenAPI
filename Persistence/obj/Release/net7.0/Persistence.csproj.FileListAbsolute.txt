@@ -1,0 +1,15 @@
+D:\VisualStudioRepository\MovieMaven\Persistence\bin\Release\net7.0\Persistence.deps.json
+D:\VisualStudioRepository\MovieMaven\Persistence\bin\Release\net7.0\Persistence.dll
+D:\VisualStudioRepository\MovieMaven\Persistence\bin\Release\net7.0\Persistence.pdb
+D:\VisualStudioRepository\MovieMaven\Persistence\bin\Release\net7.0\Domain.dll
+D:\VisualStudioRepository\MovieMaven\Persistence\bin\Release\net7.0\Domain.pdb
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\Persistence.AssemblyInfo.cs
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\Persistence.csproj.CopyComplete
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\Persistence.dll
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\refint\Persistence.dll
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\Persistence.pdb
+D:\VisualStudioRepository\MovieMaven\Persistence\obj\Release\net7.0\ref\Persistence.dll
