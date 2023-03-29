@@ -19,6 +19,12 @@ builder.Services.AddDbContext<DataContext>(option =>
 });
 builder.Services.AddMediatR(typeof(List.Handler));
 
+int port = int.Parse(Environment.GetEnvironmentVariable("PORT") ?? "5000");
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(port);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
