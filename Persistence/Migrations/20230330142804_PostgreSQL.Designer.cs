@@ -12,8 +12,8 @@ using Persistence;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230329210050_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20230330142804_PostgreSQL")]
+    partial class PostgreSQL
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
