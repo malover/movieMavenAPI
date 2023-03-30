@@ -183,9 +183,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[5.1.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
             }
           },
           "imports": [

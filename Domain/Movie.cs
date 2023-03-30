@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations.Schema;
 using Domain.Core;
 
 namespace Domain
@@ -26,7 +27,7 @@ namespace Domain
 		
 		public Movie()
 		{
-            ParentMovieId = Id;
-        }
+			ParentMovieId = Id;
+		}
 	}
 }

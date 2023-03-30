@@ -97,10 +97,5 @@ namespace Persistence
 				.HasForeignKey(m => m.ParentMovieId)
 				.OnDelete(DeleteBehavior.Restrict);
 		}
-
-		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-		{
-			optionsBuilder.UseSqlite("Data Source=movies.db");
-		}
 	}
 }

@@ -1,0 +1,13 @@
+{
+    "name": "movieMavenAPI",
+    "description": "an api for movie maven",
+    "repository": "https://github.com/malover/movieMavenAPI",
+    "env": {
+      "DOTNET_SDK_VERSION": "5.0.401"
+    },
+    "buildpacks": [
+      {
+        "url": "https://github.com/jincod/dotnetcore-buildpack"
+      }
+    ]
+  }
